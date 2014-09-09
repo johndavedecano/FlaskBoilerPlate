@@ -1,0 +1,4 @@
+*.pyc
+/assets/vendors/*
+/.idea
+/.idea/*
