@@ -20,6 +20,13 @@ pip install flask-sqlalchemy
 * Templates - Jinja Templates
 * Validations - This is where you put all the classes that are use for validations.
 
+# Running on web server
+
+* Apache - https://www.digitalocean.com/community/tutorials/how-to-deploy-a-flask-application-on-an-ubuntu-vps
+* Nginx - http://vladikk.com/2013/09/12/serving-flask-with-nginx-on-ubuntu/
+
+# Database - config.py
+
 
 
 For any suggestions and violent reactions please drop me a message.
