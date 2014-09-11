@@ -8,6 +8,7 @@ A straight-forward flask application structure
 ~~~
 pip install flask
 pip install SQLAlchemy
+pip install Flask-WTF
 pip install flask-sqlalchemy
 ~~~
 
